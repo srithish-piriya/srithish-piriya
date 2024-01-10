@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Piriya Srithish</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srithis-piriya&label=Profile%20views&color=0e75b6&style=flat" alt="srithis-piriya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srithish-piriya&label=Profile%20views&color=0e75b6&style=flat" alt="srithis-piriya" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/srithish-piriya](https://github.com/srithish-piriya)
 

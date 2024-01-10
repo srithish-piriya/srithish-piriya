@@ -1,4 +1,3 @@
-<img align="center" width="100%" src="https://repository-images.githubusercontent.com/548647011/0d5bbf30-6fd5-4091-a11f-0bbf04a6c6ad" alt="srithis-piriya" />
 <h1 align="center">Hi 👋, I'm Piriya Srithish</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
@@ -24,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srithis-piriya&show_icons=true&locale=en" alt="srithis-piriya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srithis-piriya&" alt="srithis-piriya" /></p>
-
